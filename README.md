@@ -1,18 +1,60 @@
+## About Me
+
 # 💫 About Me:
-Hi there! 👋<br><br>Welcome to my GitHub profile! I'm a passionate Informatics Engineering student with a strong interest in software development and problem-solving. I am continuously learning and improving my skills in programming to build innovative and efficient solutions.<br><br>About Me<br><br>🎓 Informatics Engineering Student<br><br>💻 Programming Languages: C++, Java, PHP, JS<br><br>🌐 Frameworks & Libraries: Laravel, React.js<br><br>🌱 Currently exploring new technologies and expanding my knowledge in full-stack development.<br><br>🔧 I enjoy working on projects that challenge my skills and help me grow as a developer.<br><br>My Goals<br><br> - Master full-stack web development.<br><br> - Learn new technologies <br><br> - Build impactful software solutions that make a difference.<br><br>Thank you for visiting my profile!<br><br>Let's build something amazing together. 🚀<br><br>
 
+Hi there! 👋  
+  
+Welcome to my GitHub profile! I'm a passionate Informatics Engineering student with a strong interest in software development and problem-solving. I am continuously learning and improving my skills in programming to build innovative and efficient solutions.  
+  
+About Me  
+  
+🎓 Informatics Engineering Student  
+  
+💻 Programming Languages: C++, Java, PHP, JS  
+  
+🌐 Frameworks & Libraries: Laravel, React.js  
+  
+🌱 Currently exploring new technologies and expanding my knowledge in full-stack development.  
+  
+🔧 I enjoy working on projects that challenge my skills and help me grow as a developer.  
+  
+My Goals  
+  
+\- Master full-stack web development.  
+  
+\- Learn new technologies  
+  
+\- Build impactful software solutions that make a difference.  
+  
+Thank you for visiting my profile!  
+  
+Let's build something amazing together. 🚀  
+  
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=frans&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=frans&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=frans&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## My Skills
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"> 
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
 
----
-[![](https://visitcount.itsvg.in/api?id=frans&icon=0&color=0)](https://visitcount.itsvg.in)
+## GitHub Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=fransdito22&theme=dark&show_icons=true&count_private=true">
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=fransdito22&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=fransdito22&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+## Connect with me
+
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/frans-dito-244921261/" target="_blank">FRANSDITO ARDIANSYAH</a> Email: fransdito22xtkrc@gmail.com</p>
